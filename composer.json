@@ -1,0 +1,19 @@
+{
+    "name": "route/db",
+    "description": "route library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Route\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahmoud"
+        }
+    ],
+    "require": {
+        "php":"8.1.5"
+    }
+}
